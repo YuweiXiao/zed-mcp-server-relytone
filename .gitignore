@@ -1,0 +1,12 @@
+# Build artifacts
+/target
+
+# Editor state
+.DS_Store
+*.swp
+*.swo
+
+# Zed / VS Code / JetBrains
+/.zed-state
+/.vscode
+/.idea

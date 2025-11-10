@@ -1,0 +1,1 @@
+Sign in at https://relytone.data.cloud, create a bearer token from your RelytONE account dashboard, and paste it into the extension settings when prompted. The extension will export it as `RELYTONE_BEARER_TOKEN` for the bundled MCP server.
