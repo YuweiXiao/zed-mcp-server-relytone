@@ -7,7 +7,7 @@ use zed_extension_api::{
 };
 
 const PACKAGE_NAME: &str = "@relyt/mcp-server-relytone";
-const SERVER_PATH: &str = "node_modules/@relyt/mcp-server-relytone/dist/index.js";
+const SERVER_PATH: &str = "node_modules/@relyt/mcp-server-relytone/index.js";
 
 struct RelytONEModelContextExtension;
 
